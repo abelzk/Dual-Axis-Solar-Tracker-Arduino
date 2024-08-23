@@ -1,4 +1,5 @@
 # Dual Axis Solar Tracker Arduino
+![Logo](https://socialify.git.ci/abelzk/Dual-Axis-Solar-Tracker-Arduino/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
 
 This project is an implementation of a dual-axis solar tracker using an Arduino. The tracker continuously adjusts the position of a solar panel in two axes (horizontal and vertical) to ensure optimal alignment with the sun. This maximizes the panel's exposure to sunlight, thereby increasing its efficiency.
 
