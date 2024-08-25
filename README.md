@@ -34,7 +34,7 @@ Additionally, the system monitors the voltage, current, and power output of the 
 - **Servo Limits**: Protects the servos from over-rotation by setting configurable limits.
 
 ## Circuit Diagram
-_(Include a circuit diagram image here, or describe how the components are connected if a diagram is not available.)_
+![Circuit Diagram](img/circuit%20diagram.png)
 
 ## Code Overview
 The project code is written in Arduino C/C++ and utilizes the following libraries:
