@@ -88,7 +88,7 @@ The project code is written in Arduino C/C++ and utilizes the following librarie
 ## Author
 **Abel Zecharias**  
 Email: [abelzeki24@gmail.com](mailto:abelzeki24@gmail.com)
-
+Don't forget to give this repo a star⭐
 ---
 
 Feel free to reach out if you have any questions or suggestions for improvements!
